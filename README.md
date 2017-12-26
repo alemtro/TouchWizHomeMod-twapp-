@@ -1,1 +1,8 @@
-# TouchWizHomeMod-twapp-
+{ 
+"latestVersion": "6", 
+"latestVersionCode": "965002002", 
+"url": "https://raw.githubusercontent.com/alemtro/TouchWizHomeMod-twapp-/master/TouchWizHome_2017J_v6.apk", 
+"releaseNotes": [ 
+"" 
+]
+}
