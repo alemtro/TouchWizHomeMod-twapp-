@@ -9,9 +9,9 @@
 - Mejorada la forma de poner transparencia a los iconos de las carpetas, ahora se puede poner transparencia incluso a los iconos stock (antes solo era a las imágenes personalizadas).
 - Cambiado el icono por defecto de imagen personalizada cuando no tienes ninguna imagen seleccionada.
 - Opción de mostrar u ocultar miniaturas dentro de las carpetas.
-- Opción de cantidad de miniaturas dentro de las carpetas con las siguientes cuadrículas:
+- Opción de cantidad de miniaturas dentro de las carpetas.
 - Eliminada la opción de ocultar aplicaciones en menú popup al presionar widgets.
-- Opción para colorear el marco que aparece al redimensionar los widgets con las siguientes opciones:
+- Opción para colorear el marco que aparece al redimensionar los widgets.
 - Añadida barra estilo Oreo en barra de búsqueda del cajón de aplicaciones.
 - Opción de Nivel de transparencia para la barra de búsqueda del cajón de aplicaciones.
 - Opción de Nivel de transparencia en icono de micrófono de la barra de búsqueda del cajón de aplicaciones.
@@ -21,13 +21,13 @@
 - Tamaño de iconos en escritorio independiente al resto de iconos.
 - Tamaño de iconos de dentro de las carpetas independiente al resto de iconos.
 - Tamaño de iconos en cajón de aplicaciones independiente al resto de iconos.
-- Etiqueta de los iconos del dock con las siguientes opciones independientes al resto de iconos:
-- Etiqueta de los iconos del escritorio con las siguientes opciones independientes al resto de iconos:
-- Etiqueta de los iconos de dentro de las carpetas con las siguientes opciones independientes al resto de iconos:
-- Etiqueta de los iconos del cajón de aplicaciones con las siguientes opciones independientes al resto de iconos:
-- Mejorada la forma de calcular los tamaños de los textos
+- Etiqueta de los iconos del dock.
+- Etiqueta de los iconos del escritorio.
+- Etiqueta de los iconos de dentro de las carpetas.
+- Etiqueta de los iconos del cajón de aplicaciones.
+- Mejorada la forma de calcular los tamaños de los textos.
 - Opción para poder cambiar el tamaño del texto de dentro de los globos del contador de no leidos.
 - Opción de modo inmersivo para la barra de estado en el launcher.
-- Pequeños cambios estéticos en GrxTouchWiz" 
+- Pequeños cambios estéticos en GrxTouchWiz."
 ]
 }
