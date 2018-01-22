@@ -1,7 +1,7 @@
 { 
 "latestVersion": "7", 
 "latestVersionCode": "7", 
-"url": "https://raw.githubusercontent.com/alemtro/TouchWizHomeMod-twapp-/master/GrxTouchWiz_v7_MM.apk", 
+"url": "https://github.com/alemtro/TouchWizHomeMod-twapp-/raw/master/GrxTouchWiz_v7_MM.apk", 
 "releaseNotes": [ 
 "- Mejorados los iconos de las carpetas estilo marco.
 - Corregido el problema que había que en las carpetas no aplicaba el tema y se quedaban blancas.
